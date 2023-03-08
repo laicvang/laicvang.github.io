@@ -1,0 +1,125 @@
+body {
+	font-family: arial;
+	background-color: #E81E0C;
+	text-align: center;
+	font-size: 15px;
+
+}
+
+body {
+  height: 2000px;
+  background: linear-gradient(10deg, #9E3B37 0%, #FF2200 51%, #EDAD9A 85%);
+}
+
+h1 { 
+	color: white; 
+}
+
+
+p{
+	font-family: serif;
+	font-size: 18px;
+}
+
+dd{
+	font-family: serif;
+	font-size: 18px;
+
+}
+
+dt{
+	font-size: 20px;
+}
+
+html, body {
+    min-height: 100%;
+    align-content: center;
+    padding-right: 80px;
+    padding-left: 80px;
+
+}
+
+.banner {
+  align-content: center;
+  background-color: white;
+  }
+
+
+.topnav {
+  background-color:white;
+  overflow: hidden;
+  text-align: : center;
+}
+
+
+.topnav a {
+  float: center ;
+  color: #9E3B37;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: red;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: black;
+  color: #9E3B37;
+}
+
+
+.box{
+width: 100px;
+height: 100px;
+}
+
+
+.column1of4{
+	float: right;
+	padding-right: 35px;
+	padding-bottom: 20px;
+}
+
+.column2of4{
+	float: right;
+	padding-right: 15px;
+	padding-bottom: 20px;
+}
+
+.column3of4{
+	float: right;
+	padding-right: 15px;
+	padding-bottom: 20px;
+}
+.column4of4{
+	float: right;
+	padding-right: 15px;
+	padding-bottom: 20px;
+}
+
+.column1of1{
+	float: center;
+
+	padding-top: 20px;
+	
+}
+
+ul {
+	margin:0;
+    padding:0;
+    list-style: inside;                
+}
+ul  li {
+    padding: 2px 5px; 
+}
+
+iframe {
+	padding: 20px;
+
+}              
+
+
